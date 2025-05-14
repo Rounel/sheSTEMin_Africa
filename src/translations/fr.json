@@ -1,0 +1,101 @@
+{
+  "header": {
+    "home": "Accueil",
+    "about": "À propos",
+    "blog": "Blog",
+    "contact": "Contactez-nous",
+    "contributions": "Contributions"
+  },
+  "hero": {
+    "tagline": "Relever les défis mondiaux par l'innovation",
+    "title": "L'avenir STEM de l'Afrique commence avec Elle",
+    "description": "Développer la future main-d'œuvre professionnelle en Afrique en soutenant les filles et les femmes africaines dans les domaines et carrières STEM",
+    "button": "Découvrir nos programmes"
+  },
+  "challenges": {
+    "title": "Nos défis",
+    "imbalance": {
+      "title": "DÉSÉQUILIBRE",
+      "description": "Seulement 35% des étudiants africains poursuivent des matières STEM, avec un écart significatif entre les sexes. Les femmes sont sous-représentées dans les domaines STEM à travers le continent."
+    },
+    "nonValuation": {
+      "title": "NON-VALORISATION",
+      "description": "Les femmes ne représentent que 30% des chercheurs dans le monde. Elles font face à des préjugés dans l'évaluation par les pairs, l'allocation de subventions et les processus d'embauche."
+    },
+    "scarcity": {
+      "title": "PÉNURIE",
+      "description": "L'Afrique fait face à une pénurie de plus de 165K professionnels STEM. Cet écart est un défi d'échelle, nécessitant un investissement important dans l'éducation et la formation."
+    },
+    "lossOfMoney": {
+      "title": "PERTE FINANCIÈRE",
+      "description": "Les écarts entre les sexes dans les STEM réduisent la productivité et la croissance économique. Combler ces écarts pourrait augmenter le PIB de 30 billions de dollars dans le monde d'ici 2025."
+    },
+    "readMore": "Lire plus",
+    "blogCta": "Si vous souhaitez en savoir plus sur les défis STEM auxquels l'Afrique et les femmes africaines sont confrontées, visitez notre blog en cliquant sur le lien ci-dessous."
+  },
+  "activities": {
+    "title": "Nos activités",
+    "networking": {
+      "title": "Réseautage",
+      "items": {
+        "0": "Accès en ligne à un réseau STEM exceptionnel",
+        "1": "Conférences, ateliers, masterclass, événements de réseautage",
+        "2": "Blog + diverses activités sur les réseaux sociaux (WhatsApp, Facebook, Instagram, YouTube, Twitter, TikTok)"
+      }
+    },
+    "coaching": {
+      "title": "Coaching/Mentorat",
+      "items": {
+        "0": "Suivi personnalisé et confidentiel",
+        "1": "Mentors assignés à chaque femme",
+        "2": "Animations de conseils de préparation",
+        "3": "Sessions de mentorat périodiques entre les femmes STEM les plus expérimentées et les moins expérimentées",
+        "4": "Ateliers de formation et d'information sur divers sujets STEM"
+      }
+    },
+    "grant_advice": {
+      "title": "Conseils en matière de subventions & plus encore",
+      "items": {
+        "0": "Support matériel par de jeunes étudiants africains",
+        "1": "Collaboration avec les fournisseurs de financement",
+        "2": "Aide pour les demandes de financement et de bourses",
+        "3": "Informations continues et à jour sur les programmes de financement et les bourses pour chaque niveau d'études : Licence, Master, Doctorat, Post-doctorat"
+      }
+    },
+    "learnMore": "En savoir plus"
+  },
+  "events": {
+    "title": "Nos événements",
+    "seeAll": "Voir tous les événements",
+    "register": "S'inscrire"
+  },
+  "joinUs": {
+    "title": "Rejoignez-nous",
+    "description": "Rejoignez notre communauté dynamique de professionnels et d'enthousiastes STEM. Nous travaillons ensemble pour promouvoir les femmes dans les domaines STEM à travers l'Afrique et au-delà.",
+    "button": "Discutez avec nous sur WhatsApp"
+  },
+  "news": {
+    "title": "Actualités et mises à jour",
+    "seeAll": "Voir toutes les actualités",
+    "readMore": "Lire plus"
+  },
+  "contribute": {
+    "title": "Appel à contribution",
+    "description": "Souhaitez-vous contribuer à notre mission ? Rejoignez-nous pour autonomiser les femmes africaines dans les domaines STEM en donnant de votre temps ou en faisant un don.",
+    "button": "Faire un don maintenant"
+  },
+  "footer": {
+    "description": "Autonomiser les femmes africaines dans les domaines STEM par l'éducation, le mentorat et le réseautage.",
+    "quickLinks": "Liens rapides",
+    "resources": "Ressources",
+    "contactUs": "Contactez-nous",
+    "copyright": "Tous droits réservés.",
+    "privacy": "Politique de confidentialité",
+    "terms": "Conditions d'utilisation",
+    "cookies": "Politique des cookies"
+  },
+  "language": {
+    "en": "Anglais",
+    "fr": "Français"
+  }
+}

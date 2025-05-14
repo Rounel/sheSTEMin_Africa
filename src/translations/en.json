@@ -1,0 +1,101 @@
+{
+  "header": {
+    "home": "Home",
+    "about": "About",
+    "blog": "Blog",
+    "contact": "Contact Us",
+    "contributions": "Contributions"
+  },
+  "hero": {
+    "tagline": "Meeting global challenges through innovation",
+    "title": "Africa's STEM Future Starts with Her",
+    "description": "Developing the future professional workforce in Africa by supporting African girls and women in STEM fields & careers",
+    "button": "Discover Our Programs"
+  },
+  "challenges": {
+    "title": "Our Challenges",
+    "imbalance": {
+      "title": "IMBALANCE",
+      "description": "Only 35% of African students pursue STEM subjects, with a significant gender gap. Women are underrepresented in STEM fields across the continent."
+    },
+    "nonValuation": {
+      "title": "NON VALUATION",
+      "description": "Women represent only 30% of researchers worldwide. Facing bias in peer review, grant allocation, and hiring processes by Microsoft shows that."
+    },
+    "scarcity": {
+      "title": "SCARCITY",
+      "description": "Africa faces a shortage of 165K+ STEM professionals. This gap is a challenge of scale, requiring significant investment in education and training."
+    },
+    "lossOfMoney": {
+      "title": "LOSS OF MONEY",
+      "description": "Gender gaps in STEM reduce productivity and economic growth. Closing these gaps could increase GDP by $30 trillion worldwide by 2025."
+    },
+    "readMore": "Read More",
+    "blogCta": "If you'd like to find out more about the STEM challenges Africa and African women are facing, please visit our blog by clicking on the link below."
+  },
+  "activities": {
+    "title": "Our Activities",
+    "networking": {
+      "title": "Networking",
+      "items": {
+        "0": "Online access to an outstanding STEM network",
+        "1": "Conferences, Workshops, Masterclass, Networking events",
+        "2": "Blog + various social media activities (WhatsApp, Facebook, Instagram, YouTube, Twitter, TikTok)"
+      }
+    },
+    "coaching": {
+      "title": "Coaching/Mentoring",
+      "items": {
+        "0": "Personalized & confidential follow-up",
+        "1": "Mentors assigned to each woman",
+        "2": "Preparation tips animations",
+        "3": "Periodic mentoring sessions between the most experienced and least experienced STEM women",
+        "4": "Training and information workshops on various STEM subjects"
+      }
+    },
+    "grant_advice": {
+      "title": "Grant advice & more",
+      "items": {
+        "0": "Materia support by young african students",
+        "1": "Collaboration with funding providers",
+        "2": "Support on funding and scholarships application",
+        "3": "Ongoing up-to-date information on funding programs and scholarships for each level of study: Bachelor, Master, Ph_D, Post-doc"
+      }
+    },
+    "learnMore": "Learn More"
+  },
+  "events": {
+    "title": "Our events",
+    "seeAll": "See All Events",
+    "register": "Register"
+  },
+  "joinUs": {
+    "title": "Join Us",
+    "description": "Join our vibrant community of STEM professionals and enthusiasts. We're working together to promote women in STEM fields across Africa and beyond.",
+    "button": "Chat with us on WhatsApp"
+  },
+  "news": {
+    "title": "News and updates",
+    "seeAll": "See All News",
+    "readMore": "Read More"
+  },
+  "contribute": {
+    "title": "Call for a contribution",
+    "description": "Would you like to contribute to our mission? Join us in empowering African women in STEM fields by volunteering your time or making a donation.",
+    "button": "Donate Now"
+  },
+  "footer": {
+    "description": "Empowering African women in STEM fields through education, mentorship, and networking.",
+    "quickLinks": "Quick Links",
+    "resources": "Resources",
+    "contactUs": "Contact Us",
+    "copyright": "All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "cookies": "Cookie Policy"
+  },
+  "language": {
+    "en": "English",
+    "fr": "French"
+  }
+}
